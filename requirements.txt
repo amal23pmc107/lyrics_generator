@@ -63,12 +63,8 @@ Pympler==1.1
 pyparsing==3.1.2
 pyrsistent==0.18.0
 
-pytz==2024.1
-pytz-deprecation-shim==0.1.0.post0
-pywin32==305
-pywinpty==1.1.6
-PyYAML==6.0.1
-pyzmq==25.1.2
+
+
 regex==2023.8.8
 requests==2.27.1
 rich==12.6.0
