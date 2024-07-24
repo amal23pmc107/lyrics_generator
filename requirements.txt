@@ -7,8 +7,9 @@ torch==2.0.0
 transformers==4.30.0
 
 
-torch==2.0.1  # Adjust the version as needed
-xformers==0.0.13  # Ensure compatibility with PyTorch
+
+torch==2.0.1
+xformers==0.0.13
 numpy==1.23.1
-pandas==1.5.0
+
 
