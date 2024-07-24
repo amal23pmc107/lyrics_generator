@@ -15,7 +15,7 @@ click==8.0.4
 colorama==0.4.5
 comm==0.1.4
 commonmark==0.9.1
-dataclasses==0.8
+
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
