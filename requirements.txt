@@ -8,8 +8,8 @@ transformers==4.30.0
 
 
 
-torch==2.0.1
+
 xformers==0.0.13
-numpy==1.23.1
+
 
 
