@@ -5,4 +5,10 @@ matplotlib==3.7.1
 scikit-learn==1.2.0
 torch==2.0.0
 transformers==4.30.0
-xformers
+
+
+torch==2.0.1  # Adjust the version as needed
+xformers==0.0.13  # Ensure compatibility with PyTorch
+numpy==1.23.1
+pandas==1.5.0
+
