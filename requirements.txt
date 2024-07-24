@@ -8,23 +8,7 @@ backports.zoneinfo==0.2.1
 bleach==4.1.0
 blinker==1.5
 cachetools==4.2.4
-certifi==2024.7.4
-cffi==1.15.1
-charset-normalizer==2.0.12
-click==8.0.4
-colorama==0.4.5
-comm==0.1.4
-commonmark==0.9.1
 
-decorator==5.1.1
-defusedxml==0.7.1
-entrypoints==0.4
-filelock==3.4.1
-gitdb==4.0.9
-GitPython==3.1.18
-huggingface-hub==0.4.0
-idna==3.7
-importlib-metadata==4.8.3
 importlib-resources==5.4.0
 ipykernel==5.5.6
 ipython==7.16.3
